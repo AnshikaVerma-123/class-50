@@ -1,0 +1,35 @@
+
+h1 { color: brown; }
+h3 {color: chartreuse;
+justify-content: stretch;}
+
+
+
+.header {
+
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+
+    background-color: rgb(121, 32, 211);
+}
+
+.grid {
+
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+
+
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+
